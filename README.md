@@ -4,7 +4,11 @@ A simple Graphical User Interface (GUI) for Cyber Threat Intelligence (CTI) that
 
 ## Overview
 
-The Threat CTI GUI is built using Python and Tkinter, integrating APIs from AbuseIPDB, VirusTotal, PhishStats, and AlienVault OTX to provide a user-friendly interface for security researchers and enthusiasts to query threat intelligence data. The tool supports searching for IOCs and displays aggregated results in real-time, with options to clear input/output and trigger searches via Enter key.
+The Threat CTI GUI is built using Python and Tkinter, integrating APIs from AbuseIPDB, VirusTotal, PhishStats, and AlienVault OTX to provide a user-friendly interface for security researchers and enthusiasts to query threat intelligence data. The tool supports searching for IOCs and displays aggregated results in real-time.
+
+![image](https://github.com/user-attachments/assets/7d0b871a-c549-49ed-a51d-d3cb7f5093c7)
+
+
 
 ## Features
 - Search for IPs, domains, URLs, and hashes.
